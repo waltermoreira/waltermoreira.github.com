@@ -1,0 +1,10 @@
+
+http://waltermoreira.github.com/archive.html
+http://waltermoreira.github.com/atom.xml
+http://waltermoreira.github.com/categories.html
+http://waltermoreira.github.com/index.html
+http://waltermoreira.github.com/pages.html
+http://waltermoreira.github.com/sitemap.txt
+http://waltermoreira.github.com/tags.html
+
+http://waltermoreira.github.com/lessons/2011/12/29/jekyll-introduction
